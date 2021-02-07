@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = C:/Users/Gerold_Csendes/Desktop/study/python/dvc_remote
