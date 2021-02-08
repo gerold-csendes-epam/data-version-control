@@ -1,4 +1,7 @@
 [core]
     remote = remote_storage
+[cache]
+    dir = C:/Users/Gerold_Csendes/Desktop/study/python/shared_cache
+    type = symlink
 ['remote "remote_storage"']
     url = C:/Users/Gerold_Csendes/Desktop/study/python/dvc_remote
